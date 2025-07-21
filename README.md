@@ -1,8 +1,11 @@
 # Bright Data ChatGPT Search Scraper (Node.js)
 
+[![Bright Data Promo](https://github.com/luminati-io/LinkedIn-Scraper/raw/main/Proxies%20and%20scrapers%20GitHub%20bonus%20banner.png)](https://brightdata.com/)
+
+
 <a href="https://githubbox.com/luminati-io/bright-data-scrape-chatgpt-search-nodejs-project?file=index.py" target="_blank">Open in CodeSandbox</a>, sign in with GitHub, then fork the repository to begin making changes.
 
-This project provides a simple Node.js boilerplate for scraping ChatGPT AI search results using the Bright Data Web Scraper API.
+This project provides a simple Node.js boilerplate for scraping [ChatGPT AI search](https://brightdata.com/products/web-scraper/chatgpt) results using the [Bright Data Web Scraper API](https://brightdata.com/products/web-scraper/chatgpt).
 
 ---
 
